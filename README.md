@@ -116,19 +116,20 @@ python snake_water_gun.py
 
 ### 🎮 Game Start
 
-*(Add Screenshot Here)*
+<img width="163" height="155" alt="image" src="https://github.com/user-attachments/assets/1eab172b-0816-4d1a-b3f7-b674aa767123" />
 
 ---
 
 ### 🎲 Gameplay
 
-*(Add Screenshot Here)*
+<img width="249" height="617" alt="image" src="https://github.com/user-attachments/assets/9a505386-552d-4066-af85-dd878e1082c4" />
 
 ---
 
 ### 🏆 Final Scoreboard
 
-*(Add Screenshot Here)*
+<img width="213" height="107" alt="image" src="https://github.com/user-attachments/assets/cb36c85c-bba1-4ef8-a5af-d37014576119" />
+
 
 ---
 
@@ -178,13 +179,3 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 This project is licensed under the **MIT License**.
 
-
-## Screenshots
-
-<img width="163" height="155" alt="image" src="https://github.com/user-attachments/assets/1eab172b-0816-4d1a-b3f7-b674aa767123" />
-
-
-<img width="249" height="617" alt="image" src="https://github.com/user-attachments/assets/9a505386-552d-4066-af85-dd878e1082c4" />
-
-
-<img width="213" height="107" alt="image" src="https://github.com/user-attachments/assets/cb36c85c-bba1-4ef8-a5af-d37014576119" />
