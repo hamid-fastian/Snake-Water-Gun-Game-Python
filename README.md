@@ -174,6 +174,10 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
 ## Screenshots
 
 <img width="163" height="155" alt="image" src="https://github.com/user-attachments/assets/1eab172b-0816-4d1a-b3f7-b674aa767123" />
@@ -183,7 +187,3 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 
 <img width="213" height="107" alt="image" src="https://github.com/user-attachments/assets/cb36c85c-bba1-4ef8-a5af-d37014576119" />
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
