@@ -167,6 +167,10 @@ BS Artificial Intelligence Student
 
 Passionate about learning programming through practical projects and continuously improving problem-solving skills.
 
+### 🌐 Connect with Me
+
+- **GitHub:** https://github.com/hamid-fastian
+-  **LinkedIn:** https://www.linkedin.com/in/malik-hamid-raza-9338693a8
 ---
 
 ## ⭐ Support
