@@ -52,13 +52,18 @@ while True:
         print("Invalid Case")
 
 print("=======><=======")
-print("Scoreboard")
-print(f"Player      : {player_Score}")
-print(f"computer    : {computer_Score}")
-if(player_Score>computer_Score):
-    print("Final Result: Player Wins")
-elif(player_Score<computer_Score):
-    print("Final Result: Computer Wins")
+print("╔══════════════════════════════════╗")
+print("║            GAME OVER!            ║")
+print("╠══════════════════════════════════╣")
+print("║                                  ║")
+print(f"║  Player   : {player_Score:<20} ║")
+print(f"║  Computer : {computer_Score:<20} ║")
+print("║                                  ║")
+
+if player_Score > computer_Score:
+    print("║  Final Result: Player Wins       ║")
+elif player_Score < computer_Score:
+    print("║  Final Result: Computer Wins     ║")
 else:
-    print("Final Result: Draw")
-print("=====> Game End <=====")
+    print("║  Final Result: Draw              ║")
+print("╚══════════════════════════════════╝")
